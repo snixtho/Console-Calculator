@@ -27,10 +27,10 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 | *  | Multiplication (a * b) |
 | %  | Modulo (a % b) |
 | @  | XOR (a @ b) |
-| |  | OR (a | b) |
+| &#124; | OR (a | b) |
 | &  | AND (a & b) |
 | ~  | Negation (~a) |
-| &#124;  | Factiorial (a!) |
+| !  | Factiorial (a!) |
 | << | Shift Left (a << b) |
 | >> | Shift Right (a >> b) |
 | =  | Assignment for variables (a = b) - NOT IMPLEMENTED YET |
