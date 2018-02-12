@@ -30,7 +30,7 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 | |  | OR (a | b) |
 | &  | AND (a & b) |
 | ~  | Negation (~a) |
-| ||  | Factiorial (a!) |
+| &#124;  | Factiorial (a!) |
 | << | Shift Left (a << b) |
 | >> | Shift Right (a >> b) |
 | =  | Assignment for variables (a = b) - NOT IMPLEMENTED YET |
