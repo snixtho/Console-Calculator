@@ -19,6 +19,7 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 ### Operations
 
 | Symbol | Description   |
+|-|-|
 | +  | Addition (a + b) |
 | -  | Subtraction (a - b) |
 | /  | Division (a / b) |
