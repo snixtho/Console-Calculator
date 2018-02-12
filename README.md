@@ -20,7 +20,7 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 ### Operations
 
 | Symbol | Description   |
-| ------ | ------------- |
+| - | - |
 | +  | Addition (a + b) |
 | -  | Subtraction (a - b) |
 | /  | Division (a / b) |
@@ -38,30 +38,31 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 ### Functions
 
 | name | description |
-abs(x)			Absolute Value of x
-acos(x)			Inverse cosinus of x
-asin(x)			Inverse sinus of x
-atan(x)			Inverse tangent of x
-atan2(x, y)		Inverse tangent of quotient x/y
-ceil(x)			Round up of x
-round(x)		Round nearest of x
-floor(x)		Round down of x
-cos(x)			Cosinus ofx
-sin(x)			Sinus of x
-tan(x)			Tangent of x
-cosh(x)			Hyperbolic cosinus of x
-sinh(x)			Hyperbolic sinus of x
-tanh(x)			Hyperbolic tangent of x
-ln(x)			Natural Logarithm of x
-log10(x)		Base 10 logarithm of x
-log(x)			Base 2 logarithm of x
-logn(x, y)		Logarithm of x with base y
-max(x, y)		Max number of x and y
-min(x, y)		Min number of x and y
-exp(x)			Exponential, e^x
-sqrt(x)			Square root of x
-sqrtn(x, y)		y root of x.
-lcm(x, y)		Least common multiple of x and y
-gcd(x, y)		Greatest common divisor of x and y
-rand(x)			Random number from 0 to x
-avg(x1,...,xN)  Average of the numbers given. 
+| - | - |
+| abs(x) | Absolute Value of x |
+| acos(x) | Inverse cosinus of x |
+| asin(x) | Inverse sinus of x |
+| atan(x)	| Inverse tangent of x |
+| atan2(x, y) | Inverse tangent of quotient x/y |
+| ceil(x) | Round up of x |
+| round(x) | Round nearest of x |
+| floor(x) | Round down of x |
+| cos(x) | Cosinus of x |
+| sin(x) | Sinus of x |
+| tan(x) | Tangent of x |
+| cosh(x) | Hyperbolic cosinus of x |
+| sinh(x) | Hyperbolic sinus of x |
+| tanh(x) | Hyperbolic tangent of x |
+| ln(x) | Natural Logarithm of x |
+| log10(x) | Base 10 logarithm of x |
+| log(x) | Base 2 logarithm of x |
+| logn(x, y) | Logarithm of x with base y |
+| max(x, y) | Max number of x and y |
+| min(x, y) | Min number of x and y |
+| exp(x) | Exponential, e^x |
+| sqrt(x) | Square root of x |
+| sqrtn(x, y) | y root of x. |
+| lcm(x, y) | Least common multiple of x and y |
+| gcd(x, y) | Greatest common divisor of x and y |
+| rand(x) | Random number from 0 to x |
+| avg(x1,...,xN) | Average of the numbers given. |
