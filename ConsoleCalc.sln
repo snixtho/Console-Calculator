@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalc", "ConsoleCalc\ConsoleCalc.csproj", "{BA261B7F-CBD8-49C3-B24D-04666EA94CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewer", "TreeViewer\TreeViewer.csproj", "{35D81E99-063F-4886-8C7C-D177D835E39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA261B7F-CBD8-49C3-B24D-04666EA94CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA261B7F-CBD8-49C3-B24D-04666EA94CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA261B7F-CBD8-49C3-B24D-04666EA94CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA261B7F-CBD8-49C3-B24D-04666EA94CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D81E99-063F-4886-8C7C-D177D835E39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D81E99-063F-4886-8C7C-D177D835E39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D81E99-063F-4886-8C7C-D177D835E39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D81E99-063F-4886-8C7C-D177D835E39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47360410-5EB8-4C17-8E2A-5919D318D86E}
+	EndGlobalSection
+EndGlobal
