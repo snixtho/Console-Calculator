@@ -10,6 +10,7 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 ### Number representations
 
 | Type   | Example   |
+|-|-|
 | float  | 23.53     |
 | int    | 325       |
 | binary | 0b1010110 |
@@ -19,7 +20,7 @@ with some extra things like factorial and binary operations. The TreeViewer proj
 ### Operations
 
 | Symbol | Description   |
-| - | - |
+| ------ | ------------- |
 | +  | Addition (a + b) |
 | -  | Subtraction (a - b) |
 | /  | Division (a / b) |
